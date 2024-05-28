@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my own projects.<br>📊 I'm learning about data analytics and data science.<br>💻 I'm interested in machine learning.<br>⚡ I'm from Colombia
+📊 I'm learning about data analytics and data science.<br>💻 I'm interested in machine learning.<br>⚡ I'm from Colombia
 
 
 ## 🌐 Socials:
