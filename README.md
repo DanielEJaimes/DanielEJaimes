@@ -43,9 +43,8 @@ I'm Daniel, a Systems and Informatics Engineer with a keen interest in Data Anal
 
 ## 📫 How to reach me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/danielejaimes)
-- Kaggle: [Your Kaggle Profile](https://www.kaggle.com/danielp23)
-- GitHub: [Your GitHub Profile](https://github.com/danielejaimes)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/danielejaimes)
+- Kaggle: [Kaggle Profile](https://www.kaggle.com/danielp23)
 
 ---
 
