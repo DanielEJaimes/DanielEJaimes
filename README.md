@@ -3,7 +3,6 @@
 **Data Scientist | Machine Learning Enthusiast | Python Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-blue)](https://www.linkedin.com/in/danielejaimes)
-[![Kaggle](https://img.shields.io/badge/Kaggle-YourProfile-blue)](https://www.kaggle.com/danielp23)
 [![GitHub](https://img.shields.io/github/followers/danielejaimes?label=follow&style=social)](https://github.com/danielejaimes)
 
 ---
